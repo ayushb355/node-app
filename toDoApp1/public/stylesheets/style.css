@@ -1,0 +1,25 @@
+html, body,{
+    position:fixed;
+    top:0;
+    bottom:0;
+    left:0;
+    right:0;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.thumbnail img {
+    height:250px;
+    width:100%;
+    border:1px
+}
+
+.thumbnail description {
+  color: #7f7f7f;
+}
+.price {
+    font-weight: bold;
+    font-size: 16px;
+}
