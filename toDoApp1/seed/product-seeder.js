@@ -10,13 +10,6 @@ var products = [
     price: 10
 }),
     new Product({
-        imagePath: 'https://images5.alphacoders.com/636/636560.jpg',
-        title: 'Breaking Bad',
-        description: 'Mild-mannered high school chemistry teacher Walter White thinks his life can\'t get much worse. His salary barely makes ends meet, a situation not likely to improve once his pregnant wife gives birth, and their teenage son is battling cerebral palsy. But Walter is dumbstruck when he learns he has terminal cancer. Realizing that his illness probably will ruin his family financially, Walter makes a desperate bid to earn as much money as he can in the time he has left by turning an old RV into a meth lab on wheels.',
-        price: 12
-    }),
-
-    new Product({
         imagePath: 'https://vignette.wikia.nocookie.net/friends/images/e/e6/Friends-tv-series-wallpapers-1280x1024.jpg/revision/latest?cb=20120304152054',
         title: 'F.R.I.E.N.D.S',
         description: 'Three young men and three young women - of the BFF kind - live in the same apartment complex and face life and love in New York. They\'re not above sticking their noses into one another\'s businesses and swapping romantic partners, which always leads to the kind of hilarity average people will never experience - especially during breakups.',
@@ -29,6 +22,15 @@ var products = [
         description: 'This series looks at the narcotics scene in Baltimore through the eyes of law enforcers as well as the drug dealers and users. Other facets of the city that are explored in the series are the government and bureaucracy, schools and the news media. The show was created by former police reporter David Simon, who also wrote many of the episodes.',
         price: 12
     }),
+
+
+    new Product({
+        imagePath: 'https://images5.alphacoders.com/636/636560.jpg',
+        title: 'Breaking Bad',
+        description: 'Mild-mannered high school chemistry teacher Walter White thinks his life can\'t get much worse. His salary barely makes ends meet, a situation not likely to improve once his pregnant wife gives birth, and their teenage son is battling cerebral palsy. But Walter is dumbstruck when he learns he has terminal cancer. Realizing that his illness probably will ruin his family financially, Walter makes a desperate bid to earn as much money as he can in the time he has left by turning an old RV into a meth lab on wheels.',
+        price: 12
+    }),
+
 
     new Product({
         imagePath: 'https://upload.wikimedia.org/wikipedia/en/8/8e/Cosmos_spacetime_odyssey_titlecard.jpg',
